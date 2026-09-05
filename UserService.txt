@@ -1,1 +1,2 @@
 this is user service file
+get status
